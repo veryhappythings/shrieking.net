@@ -1,0 +1,16 @@
+---
+layout: post
+title: A Dig Through My Spotify Profile, Part 3
+date: '2017-03-29 12:30:39'
+tags:
+- music
+- blog
+---
+
+This is part 3 of a journey through my Spotify profile. If you haven’t, check out [part 1](http://www.shrieking.net/a-dig-through-my-spotify-profile-part-1/) and [part 2](http://www.shrieking.net/a-dig-through-my-spotify-profile-part-2/).
+
+After albums comes a weird folder named Curated. A while back, presumably bummed out about not being at Glastonbury, I decided to organise an online festival. For a week, I encouraged my friends to make Spotify playlists representing the stage of their choice, and to my surprise, they listened. Spotstock ran for three years, producing wonders such as [The Trouser Tent](https://open.spotify.com/user/jazzyjaffa/playlist/43kPWzyB3CwmSuyLwiVUnh), [The Martini Roso Stage](https://open.spotify.com/user/puresock/playlist/1aZZbJiaq0aMwsl65AiJRl), [The Dubstep Room](https://open.spotify.com/user/plugawy/playlist/6JWqoYlGghv84KGo6Q19ey) and [At The Movies](https://open.spotify.com/user/elyoda/playlist/0otb6FvnJwZnrI5JzllYjv). I keep every Spotstock year in a folder. For a long time, I ran a small webapp displaying them all, but that’s gone now. Perhaps I should get it back online.
+
+Finally, I have my monthly playlists. I can’t remember why I started this. It was definitely after I saw a friend do it, but I’m not sure who. It’s become my way of trying to recreate the way I used to listen to music. In the good old days, I would buy CDs and stack them up next to my CD player - that stack would rotate slowly and I’d listen to those same albums over and over. After a while, I’d get bored of them and they’d enter the rack, to be replaced by another album - sometimes old, sometimes new. By listening to the same albums over and over, I gained a deeper understanding of them. With the advent of streaming music, it’s too easy to flow from one album to the next, never really listening to the same thing twice. The unit of music that is the album has been pushed into the background by our current music climate. To counter this somewhat, I keep a monthly playlist of anything I’m listening to - if I like it, I stick it on the list. I have no other rules - some albums crop up month after month, sometimes I put a lot of music in there, sometimes I have very little. There is rarely any coherence. It’s not an ideal solution, as I often neglect to actually look at the monthly playlist, but it’s something. For example, my working music [this month](https://open.spotify.com/user/puresock/playlist/2IpbPml5jHjJAhgdBJzjoA) has been very varied. [January 2017](https://open.spotify.com/user/puresock/playlist/4fqClepwMayOKflD0lfIL8) was a slightly more themed month in which I was on a bit of a riot grrl binge. [December 2010](https://open.spotify.com/user/puresock/playlist/3JGxp2hJEXZIaKUnVDoj2v) kicks off with the soundtrack to The Matrix - what a find! I’ve been doing this since September 2010.
+
+So, finally, that’s the end of my Spotify playlists. What a journey!

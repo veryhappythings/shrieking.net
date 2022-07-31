@@ -1,0 +1,21 @@
+---
+layout: post
+title: 'Board Game Review: Terra Mystica'
+date: '2014-09-29 15:02:54'
+tags:
+- board-games
+---
+
+![Terra Mystica](http://www.thirstymeeples.co.uk/images/made/images/uploads/games/Terra_Mystica_200_282_90.jpg)
+
+“Here, pick a race, don’t think too hard about what they do for now.” says Sina, handing me a thick stack of cardboard sheets. He is unpacking [Terra Mystica](http://www.thirstymeeples.co.uk/games/terra-mystica), rated number 3 on Board Game Geek’s list, behind only Twilight Struggle and Through The Ages on their scale of board-game-ness. It’s a brightly coloured Euro game full of bits of wood, featuring absolutely no cards, plastic figures, or dice. I’m already sold. The groups of people you can choose to play as are on two-sided sheets of cardboard, each piece being themed to one colour. The colours match certain places on the board, marking that certain groups of people have affinities to certain types of terrain. Simple enough. I choose the nomads. They look cool.
+
+It turns out that I’ve already grasped the main aim of Terra Mystica: put your people on places they like. From there the rules spiral out in a way that mostly makes sense, and given no other information, you can probably invent a lot of the concepts of the game yourself. Each player wants a different kind of terrain. The person who takes the most gets points. Each group of people have some skills that fit in with their kind of terrain in some fashion. The board has a complex mixture of terrain on it. You fight other players to take control of terrain. That’s the jist. A couple of notes though: no fighting, as such. Once you’ve taken a place, it’s yours - the fighting is about trying to get their first, trying to gather enough resources to build there, trying to figure out how to stop your opponent from getting there. Also, you can change the type of terrain in a place by terraforming it. So, you build stuff, you terraform landscapes, you build more stuff, you upgrade your building. That’s it.
+
+Of course, that’s not quite it. You need resources to do all that, and getting resources is a balance of getting the right buildings to get the right resources, as well as a couple of pick-one-of-these-6-things mechanics that can give you the edge on players. The emphasis is on trying to do what your opponents aren’t trying to do, so that you win at something, rather than coming second in everything. It’s an optimisation problem across quite a few vectors, if you like.
+
+Some groups of people are all about spreading across the map quickly. Some start out with a lot, but have a hard time rolling after that. Some are great magic wielders. Some can’t build boats. What’s neat is, each race is very different, with game-breaking powers that feel incredibly unbalanced. The balance, however, comes from the fact that everyone is unbalanced. You’re wielding power against power, and it feels great. My guys, for example, were nomads, capable of converting a tile to sand for free each turn. I became an unstoppable tide of sand against my enemies, but Simon’s dwarven people could tunnel under it, no problem.
+
+There’s another lovely mechanic that might just make this game what it is: it is to your advantage to build next to people. Whenever someone builds near you, you can gain power, which is a valuable resource used for just about everything. In addition, some buildings are cheaper if they’re placed near someone else’s buildings. That means that instead of hiding in the corners of the map, you’re always out looking for trouble. Encouraging people to pull together makes for a far, far more interesting game.
+
+It takes a while to get to grips with Terra Mystica, and the rules explanation isn’t particularly fun - it’s one of those games where you’ll have to just accept that it’ll be a minute before everything fits into place in your head - but it flows quite well and once the pieces do click, you can get on with the game very easily. It’s a testament to how well human brains can process tiny little symbols and matching colours, really. There are a whole heap of mechanics and they all tie together nicely, making a complex game that still feels reasonably easy to wrap your head around. That’s an achievement.

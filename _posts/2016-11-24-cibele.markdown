@@ -1,0 +1,19 @@
+---
+layout: post
+title: Cibele
+date: '2016-11-24 14:30:38'
+tags:
+- video-games
+---
+
+*Hello folks. I wrote half of this review a year ago and never finished it. Finding it now, I don't really like my writing in it, but I'm fed up editing it, so here it is.*
+
+The negative reviews on Cibele’s Steam page seem to come largely from people who had different expectations, so I think it’s best that we address them first: I don’t think that it’s accurate to call [Cibele](http://store.steampowered.com/app/408120/) a video game. While there are game-like elements, it doesn’t really contain any challenges and I wouldn’t really say that it’s something that you “play”.
+
+Cibele is an interactive story about a teenage girl named Nina who falls in love with a boy online while playing an MMORPG called Valtameri. It’s only a few hours long and takes place across 3 acts. Each act is a combination of playing Valtameri, FMV of Nina in real life, and exploring Nina’s computer as if it was your own desktop. The Valtameri gameplay exists only as a vehicle for Nina and Blake’s conversations - it isn’t really a game in itself.
+
+We join Nina in the middle of her story. She has been playing Valtameri for a long time and she already has some sort of relationship with Blake. We are made to feel deeply voyeuristic here: we have access to Nina’s computer and we see her world through camera angles that hint at some kind of hidden camera setup. Everything feels deeply personal. Here, Cibele does a great job of showing us how an interactive story can be more than a film and more than a game. If this was a game, you’d be hunting for a clue or a solution to a puzzle, but in Cibele, you’re just in the moment, looking in on someone else’s life. It’s a powerful setup. Each act is another window into the relationship, further along the timeline, and as you work through the scenes you experience the changes in their lives as they grow closer.
+
+Cibele excels in its multimedia storytelling. You learn about Nina’s thoughts through file names on her desktop and the files she hides away, while you learn about Blake through stilted push-to-talk voice communications in Valtameri. The voice conversations have a certain cadence that I find so familiar as an ex MMO player - they’re put together beautifully and really hit the mark for me.
+
+Cibele definitely isn’t for everyone, but if you spent your youth in an MMO or you like multimedia storytelling and interactive stories it might be worth a shot.

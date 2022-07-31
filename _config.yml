@@ -1,0 +1,33 @@
+title: Shrieking.net
+email: mac@veryhappythings.co.uk
+description: >-
+  Noise, shouting etc
+author: Mac Chapman
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.shrieking.net" # the base hostname & protocol for your site, e.g. http://example.com
+social-twitter: itsmaccy
+social-github:  veryhappythings
+social-linkedin: macchapman
+social-steam: itsmaccy
+social-letterboxd: maccy
+social-untappd: maccy
+social-bgg: maccy
+discus-identifier: shrieking
+#google_analytics: UA-18260988-1
+page_excerpts: true
+collections:
+  posts:
+    permalink: "/blog/:title:output_ext"
+    output: true
+
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+
+paginate: 5
+paginate_path: "/blog/page-:num/"
+
+sass:
+  sass_dir: _sass

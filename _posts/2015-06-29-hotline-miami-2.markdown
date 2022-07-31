@@ -1,0 +1,19 @@
+---
+layout: post
+title: Hotline Miami 2
+date: '2015-06-29 17:10:18'
+tags:
+- video-games
+---
+
+I’ve struggled for a while with what’s worth saying about Hotline Miami 2. The reviews out there cover it quite well, and if you’re trying to figure out whether or not you want to buy it or not, I’d recommend you read Andi Hamilton’s words over at [Midnight Resistance](http://midnightresistance.co.uk/reviews/hotline-miami-2-wrong-number) - I think he covers a lot of it very well, and I almost canned the whole idea of writing anything about it because anything else feels redundant. I can’t quite let it go, though: I feel like the great bits of this game have been missed by the masses.
+
+Hotline Miami’s soundtrack is the icing on the cake to an incredible game that elevates it from being great to being one of the best games ever made. The audio design as a whole is simple, elegant and brutal. Hotline Miami 2, unbelievably, improves on this. The more varied levels lend themselves to a more varied musical background, allowing the developers and composers to work out something truly imaginative and special. The build-up of Carpenter Brut’s Roller Mobster is a wonderful example of how this game uses quieter moments in an otherwise unrelenting soundtrack to emphasise the tension that’s present in the game.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qFfybn_W8Ak" frameborder="0" allowfullscreen></iframe>
+
+Tension is a theme in this game. Where Hotline Miami’s story was vague and meandering, Hotline Miami 2’s is always working towards something, and it’s always something horrible. Every character is searching for an answer, but it always feels like it’s going to be a Seven-style head-in-a-box answer that no character really wants to reach. We watch as The Soldier desperately seeks a way out of the war, but we feel like it will never really end for him. We watch The Writer give up everything in pursuit of understanding the events of Hotline Miami. The world is falling apart for every character we play as, one way or another, whether it’s the corrupt cop who abuses his position to kill for fun, or The Fans, morally bankrupt kids who emulate murders for kicks. It’s left a little unclear whether people are deliberately corrupting the world, or the organisations we see are merely symptoms of the human condition.
+
+The ending didn’t satisfy me, but that felt ok. I don’t think that every story has to be what you want it to be, and these stories, these lives, feel like unsatisfying ones. The characters are all missing something vital, something that makes them whole human beings, and they end their time broken and lost.
+
+Is it any good? As a game? Well, that’s more complicated. What everyone else has said is right: the levels are so big and open that it becomes more of a stealth shooter than a combo-busting brawler at times. The AI is frustrating and broken in places, and the random seeding of levels can make them laughably easy or maddeningly hard: one level I tried was nearly impossible because I couldn’t get my hands on anything other than a 2-cartridge shotgun. I quit the game, tried again the next day, and every enemy was boasting a fully-automatic machine gun, meaning that I was able to breeze through the level first try. That all said, I finished it, and I enjoyed it. It tries too hard and does too many new things, but anything less and it might have been branded as “more of the same” and “unimaginative” - it’s a fine line and I think they did the best they could. This is not a bad game, by any means - it’s just not going to sit in the hall of fame alongside Hotline Miami.
