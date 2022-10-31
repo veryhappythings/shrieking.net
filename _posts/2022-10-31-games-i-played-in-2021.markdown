@@ -1,3 +1,10 @@
+---
+layout: post
+title: 'Games I Played In 2021'
+date: '2022-10-31 09:00:00'
+tags:
+- video-games
+---
 
 In a way I had a year off from gaming last year - I took a lot of time out to figure out what I was actually enjoying and whether or not I wanted to play at all. At the start of the year I'd pretty much planned to get rid of my gaming PC, but by the end of it I'd upgraded it and I'm excited for next year. Its good to take time to evaluate what you do.
 
