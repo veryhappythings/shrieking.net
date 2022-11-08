@@ -13,7 +13,7 @@ social-letterboxd: maccy
 social-untappd: maccy
 social-bgg: maccy
 discus-identifier: shrieking
-#google_analytics: UA-18260988-1
+google-analytics: G-1CDQB7YQFB
 page_excerpts: true
 collections:
   posts:
