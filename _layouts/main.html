@@ -34,14 +34,14 @@ layout: default
         {% if site.social-letterboxd %}
           <li class="letterboxd"><a href="https://www.letterboxd.com/{{site.social-letterboxd}}" target="_blank"><i class="fa fa-film" aria-hidden="true"></i></a></li>
         {% endif %}
-        {% if site.social-untappd %}
-          <li class="untappd"><a href="https://www.untappd.com/user/{{site.social-untappd}}" target="_blank"><i class="fa fa-beer" aria-hidden="true"></i></a></li>
-        {% endif %}
         {% if site.social-bgg %}
           <li class="bgg"><a href="https://www.boardgamegeek.com/user/{{site.social-bgg}}" target="_blank"><i class="fa fa-space-shuttle" aria-hidden="true"></i></a></li>
         {% endif %}
         {% if site.social-email %}
           <li class="email"><a href="mailto:{{site.social-email}}"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
+        {% endif %}
+        {% if site.social-mastodon %}
+          <li class="mastodon"><a rel="me" href="{{site.social-mastodon}}"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
         {% endif %}
       </ul>
     </section> <!-- End Section Contact -->
