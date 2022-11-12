@@ -5,7 +5,7 @@ description: >-
 author: Mac Chapman
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.shrieking.net" # the base hostname & protocol for your site, e.g. http://example.com
-social-twitter: itsmaccy
+#social-twitter: itsmaccy
 social-github:  veryhappythings
 social-linkedin: macchapman
 social-steam: itsmaccy
