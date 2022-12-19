@@ -1,0 +1,15 @@
+---
+layout: post
+title: 'Death Stranding'
+date: '2022-12-19 09:00:00'
+tags:
+- video-games
+---
+
+In the midst of a pandemic, in a locked down country where we weren't allowed to see other people, I played Death Stranding. It is a game about reconnecting people who have been scattered across America, unable to go outside, trapped without communication. The invisible threat in the game is rather different to our own virus but the parallels between what the characters experience and our experiences of a pandemic are clear: Kojima imagined a world in which we hide indoors and rely on couriers. Those who go outside wear protective clothing and are made hard by the world.
+
+A long long time ago, when I was in college, I didn't understand art at all. A friend of mine was learning about plays and explained to me that Brecht preferred not to rely on the plot of his plays to get his message across. At the time, I didn't get it - surely the plot is all there is? How could you tell a story with anything else? It wasn't until I played Silent Hill 2 that I started to understand how gameplay and setting could tell more than a plot ever could. Overall, I don't think many story-based games need to be games: you could watch someone else play them and lose nothing from the experience. Death Stranding, on the other hand, is meant to be played: it tells its story with every step you take. Kojima made this a game about monotony, about trudging from one place to the next, about struggling to keep standing. It's a choice that must have stopped a lot of players from getting through much of the game, but I think it's a really good way of feeling the trudge that our character is feeling. It builds the feeling of isolation to be out there on your own for so many hours - you feel the distance covered, the weather, the weight. And on top of that, when you get to a place to stop, you rarely actually get to talk to another human being: you start to wonder of anyone else is real. During the covid pandemic, we've all been locked in our houses. We've spoken to each other online, on phones, via a filter of technology. We've felt the monotony of the day by day grind. We've started to wonder if other people are anything more than their online persona. Kojima captured all of this so well before the pandemic happened.
+
+This game was made after Silent Hills was canned, and I think that a lot of ideas made it from one game to the next. The isolation reminds me of the protagonists of Silent Hill a lot - alone with their problems, trapped in their own personal hell. The black tar that bubbles out of everything wouldn't be out of place near the hell mouth. This leaves me wondering if the multiplayer aspects were originally built for Silent Hills - were we to be building nightmares together? I think that hearing other players calls must have been in the previous game, and I think it's genius.
+
+Death Stranding needs a few hours in a pub to discuss properly, really. I haven't even scratched the surface of my thoughts on it here. It's a weird game, it definitely isn't for everyone, but for me, at that time, it was a powerful experience.
