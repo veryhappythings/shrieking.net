@@ -1,0 +1,27 @@
+<nav>
+    <ul class="sidebar-nav">
+        {{ range .Site.Params.menu }}
+        {{ $item := . }}
+            {{ if eq (len $item.URL) 0 }}
+                <li class="heading">{{ $item.Name }}</li>
+            {{ else if $item.External }}
+                <li class="bullet">
+                    <a href="{{ $item.URL }}" target="_blank" rel="noopener noreferrer">{{ $item.Name }}</a>
+                </li>
+            {{ else }}
+                <li class="heading">
+                    <a href="{{ $item.URL }}">{{ $item.Name }}</a>
+                </li>
+                {{ if $item.HasChildren }}
+                    {{ $section_path := strings.TrimSuffix ".html" $item.URL }}
+                    {{ with $.Site.GetPage $section_path }}
+                        {{ if $item.Pre }}<li class="sub-heading">{{ $item.Pre }}</li>{{ end }}
+                        {{ range (first $item.Limit .Pages) }}
+                            <li class="bullet"><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+                        {{ end }}
+                    {{ end }}
+                {{ end }}
+            {{ end }}
+        {{ end }}
+    </ul>
+</nav>

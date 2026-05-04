@@ -1,0 +1,56 @@
+baseURL = "https://www.shrieking.net/"
+languageCode = "en-gb"
+title = "Shrieking.net"
+theme = "poison"
+pluralizelisttitles = false
+uglyURLs = true
+
+[pagination]
+  pagerSize = 5
+
+[permalinks]
+  posts = "/blog/:slug"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[taxonomies]
+  tag = "tags"
+
+[services]
+  [services.disqus]
+    shortname = "shrieking"
+  [services.googleAnalytics]
+    ID = "G-1CDQB7YQFB"
+
+[params]
+  brand       = "Shrieking.net"
+  description = "Noise, shouting etc."
+  dark_mode   = true
+  favicon     = "/favicon.ico"
+  front_page_content = ["posts"]
+
+  # Socials handled natively by Poison
+  github_url    = "https://github.com/veryhappythings"
+  linkedin_url  = "https://in.linkedin.com/in/macchapman"
+  email_url     = "mailto:mac@veryhappythings.co.uk"
+  rss_icon      = true
+  rss_section   = "posts"
+
+  # Custom socials rendered by our socials.html override
+  steam_url      = "https://www.steamcommunity.com/id/itsmaccy"
+  letterboxd_url = "https://www.letterboxd.com/maccy"
+  bgg_url        = "https://www.boardgamegeek.com/user/maccy"
+
+  menu = [
+    { Name = "Video Games", URL = "/video-games/" },
+    { Name = "Board Games", URL = "/tags/board-games.html" },
+    { Name = "Posts",       URL = "/posts/", HasChildren = true, Pre = "Recent", Limit = 3 },
+  ]
+
+# Author must come after all flat [params] keys to avoid TOML nesting issues
+[params.Author]
+  name = "Mac Chapman"
+  Name = "Mac Chapman"
