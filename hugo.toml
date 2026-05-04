@@ -1,9 +1,8 @@
 baseURL = "https://www.shrieking.net/"
 languageCode = "en-gb"
 title = "Shrieking.net"
-theme = "poison"
-pluralizelisttitles = false
-uglyURLs = true
+theme = "hyde"
+
 
 [pagination]
   pagerSize = 5
@@ -28,26 +27,22 @@ uglyURLs = true
 [params]
   brand       = "Shrieking.net"
   description = "Noise, shouting etc."
-  dark_mode   = true
   favicon     = "/favicon.ico"
   front_page_content = ["posts"]
+  themeColor = "theme-base-0b"
 
-  # Socials handled natively by Poison
   github_url    = "https://github.com/veryhappythings"
   linkedin_url  = "https://in.linkedin.com/in/macchapman"
-  email_url     = "mailto:mac@veryhappythings.co.uk"
-  rss_icon      = true
-  rss_section   = "posts"
-
-  # Custom socials rendered by our socials.html override
   steam_url      = "https://www.steamcommunity.com/id/itsmaccy"
   letterboxd_url = "https://www.letterboxd.com/maccy"
   bgg_url        = "https://www.boardgamegeek.com/user/maccy"
+  rss_icon      = true
+  rss_section   = "posts"
 
-  menu = [
-    { Name = "Video Games", URL = "/video-games/" },
-    { Name = "Board Games", URL = "/tags/board-games.html" },
-    { Name = "Posts",       URL = "/posts/", HasChildren = true, Pre = "Recent", Limit = 3 },
+[Menus]
+  main = [
+    { Name = "Video Games", URL = "/tags/video-games/" },
+    { Name = "Board Games", URL = "/tags/board-games/" },
   ]
 
 # Author must come after all flat [params] keys to avoid TOML nesting issues

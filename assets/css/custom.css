@@ -1,0 +1,32 @@
+/* Custom CSS for shrieking.net */
+.sidebar-about h1 {
+  color: #fff;
+  margin-top: 0;
+  font-family: "Abril Fatface", serif;
+  font-size: 2rem;
+}
+
+.theme-base-0b .content .page-title a, .theme-base-0b .content .post-title a, .theme-base-0b .related-posts li a:hover {
+  color: #303030;
+}
+
+
+.posts li {
+    display: flex;
+}
+.posts li .title {
+    order: 1;
+}
+.posts li .published {
+    order: 3;
+}
+.posts li::after {
+    background-image: radial-gradient(circle, currentcolor 1px, transparent 1.5px);
+    background-position: bottom;
+    background-size: 1ex 3.5px;
+    background-repeat: space no-repeat;
+    content: "";
+    flex-grow: 1;
+    height: 1.1em;
+    order: 2;
+}
