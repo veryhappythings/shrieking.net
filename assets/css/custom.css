@@ -1,4 +1,9 @@
 /* Custom CSS for shrieking.net */
+.sidebar-logo {
+  display: block;
+  margin: 0 auto;
+}
+
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
